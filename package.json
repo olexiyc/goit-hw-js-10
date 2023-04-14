@@ -2,7 +2,7 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://olexiyc/goit-hw-js-10",
+  "homepage": "https://olexiyc.github.io/goit-hw-js-10",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-hw-js-10/"
